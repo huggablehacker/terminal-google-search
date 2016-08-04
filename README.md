@@ -4,7 +4,7 @@ Search Google with this bash script. Was used to learn variables within bash.
 `Usage:`<BR>
 tsg.sh `text-string`
 
-`Example`<BR>
+`Example:`<BR>
 tsg.sh huggablehacker <BR>
 tsg.sh file:pdf
 
