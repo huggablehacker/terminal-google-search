@@ -6,5 +6,8 @@ tsg.sh text-string
 
 `Example`
 tsg.sh huggablehacker
+tsg.sh file:pdf
 
 After running, your default browser will open a Google search window with the results of you entered `text-string`
+
+
