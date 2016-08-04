@@ -6,7 +6,8 @@ tsg.sh `text-string`
 
 `Example:`<BR>
 tsg.sh huggablehacker <BR>
-tsg.sh file:pdf
+tsg.sh file:pdf <BR>
+tsg.sh filetype:sql intext:wp_users phpmyadmin
 
 After running, your default browser will open a Google search window with the results of you entered `text-string`
 
