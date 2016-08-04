@@ -1,10 +1,10 @@
 # Terminal Google Search
 Search Google with this bash script. Was used to learn variables within bash. 
 
-`Usage:`
+`Usage:`<BR>
 tsg.sh text-string
 
-`Example`
+`Example`<BR>
 tsg.sh huggablehacker <BR>
 tsg.sh file:pdf
 
