@@ -2,7 +2,7 @@
 Search Google with this bash script. Was used to learn variables within bash. 
 
 `Usage:`<BR>
-tsg.sh text-string
+tsg.sh `text-string`
 
 `Example`<BR>
 tsg.sh huggablehacker <BR>
